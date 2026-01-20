@@ -108,7 +108,6 @@ Notes and limitations ⚠️
   - Stage 10–14: High School  
   - Stage >=15: University  
 - The game is single-player and does not save progress between runs.  
-- Consider adding robust input validation (std::cin checks or parsing via getline), more granular actions, or persistence for extended functionality.
 
 Author 👤
 ------
